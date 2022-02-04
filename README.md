@@ -1,2 +1,2 @@
 # GoLang-Practise
-Started to learn GoLang as a Backend Framework.
+Started to learn GoLang to get Backend internship opportunities.
